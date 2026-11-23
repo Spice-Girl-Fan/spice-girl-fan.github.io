@@ -1,0 +1,6 @@
+# Plaintext sources and keys must never be committed.
+private/
+*.key
+.env
+node_modules/
+.DS_Store
